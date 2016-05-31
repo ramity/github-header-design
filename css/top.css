@@ -1,0 +1,157 @@
+html,body
+{
+	margin:0px;
+	background-color:#eee;
+	font-family:arial;
+}
+body
+{
+	margin:60px 240px 0px 60px;
+}
+div
+{
+	float:left;
+}
+a
+{
+	color:inherit;
+	text-decoration:none;
+}
+div#top
+{
+	width:100%;
+	height:60px;
+	background-color:#fff;
+	position:fixed;
+	top:0px;
+	left:0px;
+}
+div#topleft
+{
+	width:660px;
+	height:60px;
+}
+div#toplogo
+{
+	width:60px;
+	height:60px;
+	background-color:#409de4;
+	background-image:url('http://comp.uark.edu/~lcb005/img/crest.png');
+	background-size:40px 40px;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+div.toplink
+{
+	width:120px;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+}
+div#topright
+{
+	width:240px;
+	height:60px;
+	float:right;
+}
+div#sideleft
+{
+	width:60px;
+	height:100%;
+	background-color:#333;
+	position:fixed;
+	top:0px;
+	left:0px;
+}
+div#sideleftplaceholder
+{
+	width:60px;
+	height:60px;
+}
+div.sidelink
+{
+	width:60px;
+	height:60px;
+	cursor:pointer;
+	background-image:url('http://comp.uark.edu/~lcb005/img/icons[2].png');
+	background-size:800px 600px;
+}
+div#sideiconfeed
+{
+	background-position:0px 0px;
+}
+div#sideiconmessages
+{
+	background-position:-61px 0px;
+}
+div#sideiconfriends
+{
+	background-position:-122px 0px;
+}
+div#sideiconfavories
+{
+	background-position:-183px 0px;
+}
+div#sideiconsettings
+{
+	background-position:-244px 0px;
+}
+div#sideiconprofile
+{
+	background-position:-305px 0px;
+}
+div#sideleftbottom
+{
+	width:60px;
+	height:120px;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+}
+div#sideright
+{
+	width:240px;
+	height:100%;
+	position:fixed;
+	top:0px;
+	right:0px;
+	background-color:#bbb;
+}
+div#siderightplaceholder
+{
+	width:240px;
+	height:70px;
+}
+div#container
+{
+	width:100%;
+}
+div#module_header
+{
+	width:100%;
+	height:400px;
+	background-image:url(http://i.imgur.com/BwBsXoO.jpg);
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+div#module_header_notice
+{
+	width:960px;
+	height:360px;
+	line-height:360px;
+	font-size:75px;
+	color:#fff;
+	float:none;
+	text-align:center;
+	margin:20px auto;
+	background-color:rgba(0,0,0,0.5);
+}
+div#containerinr
+{
+	width:960px;
+	height:500px;
+	float:none;
+	margin:20px auto 0px auto;
+}
