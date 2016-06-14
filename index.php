@@ -3,8 +3,9 @@
 ?>
 <!DOCTYPE html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="https://comp.uark.edu/~lcb005/css/index.css">
-	</head>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <!--<link rel="stylesheet" type="text/css" href="https://comp.uark.edu/~lcb005/css/index.css">-->
+  </head>
 	<body>
 		<div id="header">
 			<div id="headerinr">
